@@ -7,8 +7,6 @@ For that purpose, go to the `conan_pkg/gurobi_public` directory and run
 ```
 conan create . --user ibralg --channel develop -s build_type=Release --build=missing
 ```
-```
-```
 
 
 Afterwards, go back to the directory containing this `INSTALL.md` and
